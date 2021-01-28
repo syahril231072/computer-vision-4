@@ -1092,7 +1092,7 @@ Added Team members" class="link-gray" href="/khalidw/social_distancing/commit/42
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/khalidw/social_distancing/contributors-list/master/README.md" preload>
+        src="/syahril231072/computer-vision-4/contributors-list/master/README.md" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -1105,11 +1105,9 @@ Added Team members" class="link-gray" href="/khalidw/social_distancing/commit/42
       </details-dialog>
     </details>
       <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/Basit040/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/khalidw/social_distancing/commits/master/README.md?author=Basit040">
+    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/Basit040/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/<h2/commits/master/README.md?author=Basit040">
       <img class="avatar mr-2 avatar-user" src="https://avatars1.githubusercontent.com/u/67504630?s=48&amp;v=4" width="24" height="24" alt="@Basit040" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/khalidw/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/khalidw/social_distancing/commits/master/README.md?author=khalidw">
-      <img class="avatar mr-2 avatar-user" src="https://avatars0.githubusercontent.com/u/31723666?s=48&amp;v=4" width="24" height="24" alt="@khalidw" /> 
-</a>
+
 </span>
 
   </div>
@@ -1168,9 +1166,9 @@ Added Team members" class="link-gray" href="/khalidw/social_distancing/commit/42
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
     <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-team" class="anchor" aria-hidden="true" href="#team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
 <h1><a id="user-content-social-distancing-detection" class="anchor" aria-hidden="true" href="#social-distancing-detection"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Social Distancing Detection</h1>
-<h2>In the fight against the coronavirus, social distancing has proven to be a very effective measure to slow down the spread of the disease. Few months ago millions of people are staying at home to help flatten the curve but they are doing their jobs to earn and fulfilling their needs. As vaccine for Covid-19 has not been produced yet so best way to fight against Covid-19 is to wear masks and ensure social distancing.
-Social distancing is a method used to control the spread of contagious diseases. Social distancing implies that people should physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a Covid-19.</h2>
-<h2>To help ensure social distancing, we have developed an AI-enabled social distancing detection tool that can detect if people are keeping a safe distance from each other by analyzing real time video streams from the camera.</h2>
+<h3>In the fight against the coronavirus, social distancing has proven to be a very effective measure to slow down the spread of the disease. Few months ago millions of people are staying at home to help flatten the curve but they are doing their jobs to earn and fulfilling their needs. As vaccine for Covid-19 has not been produced yet so best way to fight against Covid-19 is to wear masks and ensure social distancing.
+Social distancing is a method used to control the spread of contagious diseases. Social distancing implies that people should physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a Covid-19.</h3>
+<h3>To help ensure social distancing, we have developed an AI-enabled social distancing detection tool that can detect if people are keeping a safe distance from each other by analyzing real time video streams from the camera.</h3>
 <p>Our approach consists of three steps:</p>
 <ul>
 <li>Detect the humans in the frame</li>
