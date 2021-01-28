@@ -28,15 +28,15 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>social_distancing/README.md at master · khalidw/social_distancing</title>
-    <meta name="description" content="Contribute to khalidw/social_distancing development by creating an account on GitHub.">
+  <title>social_distancing/README.md at master · syahril231072/computer-vision-4</title>
+    <meta name="description" content="Contribute to syahril231072/computer-vision-4 development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905">
 
-    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/31723666?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="khalidw/social_distancing" /><meta name="twitter:description" content="Contribute to khalidw/social_distancing development by creating an account on GitHub." />
-    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/31723666?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="khalidw/social_distancing" /><meta property="og:url" content="https://github.com/syahril231072/computer-vision-4" /><meta property="og:description" content="Contribute to khalidw/social_distancing development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/31723666?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="syahril231072/computer-vision-4" /><meta name="twitter:description" content="Contribute to syahril231072/computer-vision-4 development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/31723666?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="syahril231072/computer-vision-4" /><meta property="og:url" content="https://github.com/syahril231072/computer-vision-4" /><meta property="og:description" content="Contribute to syahril231072/computer-vision-4 development by creating an account on GitHub." />
 
 
 
@@ -85,7 +85,7 @@
   
 
       <meta name="hostname" content="github.com">
-    <meta name="user-login" content="khalidw">
+    <meta name="user-login" content="syahril231072">
 
 
       <meta name="expected-hostname" content="github.com">
@@ -97,14 +97,14 @@
   <meta http-equiv="x-pjax-version" content="d8a101655edb71c4820711ad84e887c7bf76ad11e88f7601c160c1a15a6e12eb">
   
 
-        <link href="https://github.com/khalidw/social_distancing/commits/master.atom" rel="alternate" title="Recent Commits to social_distancing:master" type="application/atom+xml">
+        <link href="https://github.com/syahril231072/computer-vision-4/commits/master.atom" rel="alternate" title="Recent Commits to social_distancing:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/khalidw/social_distancing git https://github.com/khalidw/social_distancing.git">
+  <meta name="go-import" content="github.com/syahril231072/computer-vision-4 git https://github.com/syahril231072/computer-vision-4.git">
 
-  <meta name="octolytics-dimension-user_id" content="31723666" /><meta name="octolytics-dimension-user_login" content="khalidw" /><meta name="octolytics-dimension-repository_id" content="296096908" /><meta name="octolytics-dimension-repository_nwo" content="khalidw/social_distancing" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="296096908" /><meta name="octolytics-dimension-repository_network_root_nwo" content="khalidw/social_distancing" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
+  <meta name="octolytics-dimension-user_id" content="31723666" /><meta name="octolytics-dimension-user_login" content="syahril231072" /><meta name="octolytics-dimension-repository_id" content="296096908" /><meta name="octolytics-dimension-repository_nwo" content="syahril231072/computer-vision-4" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="296096908" /><meta name="octolytics-dimension-repository_network_root_nwo" content="syahril231072/computer-vision-4" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
 
 
-    <link rel="canonical" href="https://github.com/khalidw/social_distancing/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/syahril231072/computer-vision-4/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -613,7 +613,7 @@
       </div>
       <div role="none" class="dropdown-divider"></div>
 
-    <a role="menuitem" class="dropdown-item" href="/khalidw" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/khalidw/social_distancing/blob/master/README.md&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/khalidw/social_distancing/blob/master/README.md&quot;,&quot;user_id&quot;:31723666}}" data-hydro-click-hmac="86a735fa010ab3f175c4552e4b7eab32ec93843d1710ff94fd850962fb016d47" >Your profile</a>
+    <a role="menuitem" class="dropdown-item" href="/khalidw" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/syahril231072/computer-vision-4/blob/master/README.md&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/syahril231072/computer-vision-4/blob/master/README.md&quot;,&quot;user_id&quot;:31723666}}" data-hydro-click-hmac="86a735fa010ab3f175c4552e4b7eab32ec93843d1710ff94fd850962fb016d47" >Your profile</a>
 
     <a role="menuitem" class="dropdown-item" href="/khalidw?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/khalidw/social_distancing/blob/master/README.md&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/khalidw/social_distancing/blob/master/README.md&quot;,&quot;user_id&quot;:31723666}}" data-hydro-click-hmac="f14fcf9297c605e209ed859fbdb1c82d90e701ac34ba810af43a06d5a34a17af" >Your repositories</a>
 
@@ -630,7 +630,7 @@
 
 
     <div role="none" class="dropdown-divider"></div>
-      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/khalidw/social_distancing/blob/master/README.md&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/khalidw/social_distancing/blob/master/README.md&quot;,&quot;user_id&quot;:31723666}}" data-hydro-click-hmac="0572264997db7dedcba084928198013ec45c939d2c682e7e47675de9887f6a49" >Upgrade</a>
+      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/syahril231072/computer-vision-4/blob/master/README.md&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/syahril231072/computer-vision-4/blob/master/README.md&quot;,&quot;user_id&quot;:31723666}}" data-hydro-click-hmac="0572264997db7dedcba084928198013ec45c939d2c682e7e47675de9887f6a49" >Upgrade</a>
       
 <div id="feature-enrollment-toggle" class="hide-sm hide-md feature-preview-details position-relative">
   <button
@@ -1168,9 +1168,9 @@ Added Team members" class="link-gray" href="/khalidw/social_distancing/commit/42
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
     <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-team" class="anchor" aria-hidden="true" href="#team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
 <h1><a id="user-content-social-distancing-detection" class="anchor" aria-hidden="true" href="#social-distancing-detection"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Social Distancing Detection</h1>
-<p>In the fight against the coronavirus, social distancing has proven to be a very effective measure to slow down the spread of the disease. Few months ago millions of people are staying at home to help flatten the curve but they are doing their jobs to earn and fulfilling their needs. As vaccine for Covid-19 has not been produced yet so best way to fight against Covid-19 is to wear masks and ensure social distancing.
-Social distancing is a method used to control the spread of contagious diseases. Social distancing implies that people should physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a Covid-19.</p>
-<p>To help ensure social distancing, we have developed an AI-enabled social distancing detection tool that can detect if people are keeping a safe distance from each other by analyzing real time video streams from the camera.</p>
+<h2>In the fight against the coronavirus, social distancing has proven to be a very effective measure to slow down the spread of the disease. Few months ago millions of people are staying at home to help flatten the curve but they are doing their jobs to earn and fulfilling their needs. As vaccine for Covid-19 has not been produced yet so best way to fight against Covid-19 is to wear masks and ensure social distancing.
+Social distancing is a method used to control the spread of contagious diseases. Social distancing implies that people should physically distance themselves from one another, reducing close contact, and thereby reducing the spread of a Covid-19.</h2>
+<h2>To help ensure social distancing, we have developed an AI-enabled social distancing detection tool that can detect if people are keeping a safe distance from each other by analyzing real time video streams from the camera.</h2>
 <p>Our approach consists of three steps:</p>
 <ul>
 <li>Detect the humans in the frame</li>
